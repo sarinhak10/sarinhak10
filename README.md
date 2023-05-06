@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**sarinhak10/sarinhak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tudo sobre sarinhak10
+meu nome completo -Sara da silva martins 
+idade -15 
+altura -1,50
+meu aniversario - 29/05/2008
+estudo na escola 31 de março
+estou apredendo sobre pensamentos computacional
+no meu futuro quero ser jogadora de futebol
+minha comida favorita é lasanha
+meu cantor favorito  é mc daniel
+e fim.
